@@ -1,1 +1,1 @@
-![](https://github.com/TheWiXi/practicaFlex/blob/ejercicio_1/storage/img/1.jpg)
+![](https://github.com/TheWiXi/practicaFlex/blob/ejercicio1/storage/img/1.jpg)
