@@ -1,4 +1,29 @@
 @import url(variables.css);
-body {
-    background-color: var(--background-primary);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans-serif";
+}
+
+ul, a {
+    list-style-type: none;
+    text-decoration: none;
+}
+ul {
+    margin: 50px;
+}
+ul li {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin: 0.5em 0;
+    padding: 16px;
+    background-color: lightgray;
+    color: black;
+}
+a {
+    padding: 5px;
+    background-color: white;
+    color: black;
 }
